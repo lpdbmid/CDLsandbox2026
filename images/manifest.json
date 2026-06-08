@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "10-10003o"
+                ]
+            },
+            "height": 3305,
+            "width": 3409,
+            "items": [
+                {
+                    "id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 107,
+                                                "height": 104
+                                            },
+                                            {
+                                                "width": 214,
+                                                "height": 207
+                                            },
+                                            {
+                                                "width": 427,
+                                                "height": 414
+                                            },
+                                            {
+                                                "width": 853,
+                                                "height": 827
+                                            },
+                                            {
+                                                "width": 1705,
+                                                "height": 1653
+                                            },
+                                            {
+                                                "width": 3409,
+                                                "height": 3305
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3409,
+                                        "@id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3305,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://lpdbmid.github.io/CDLsandbox2026/images/15-25697p/canvas/",
             "type": "Canvas",
             "label": {
@@ -171,26 +252,26 @@
             ]
         },
         {
-            "id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/canvas/",
+            "id": "https://lpdbmid.github.io/CDLsandbox2026/images/12-16779m/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "10-10003o"
+                    "12-16779m"
                 ]
             },
-            "height": 3305,
-            "width": 3409,
+            "height": 3087,
+            "width": 3357,
             "items": [
                 {
-                    "id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/annotation/AnnoPage",
+                    "id": "https://lpdbmid.github.io/CDLsandbox2026/images/12-16779m/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/annotation/",
+                            "id": "https://lpdbmid.github.io/CDLsandbox2026/images/12-16779m/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/full/full/0/default.jpg",
+                                "id": "https://lpdbmid.github.io/CDLsandbox2026/images/12-16779m/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -211,41 +292,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 107,
-                                                "height": 104
+                                                "width": 105,
+                                                "height": 97
                                             },
                                             {
-                                                "width": 214,
-                                                "height": 207
+                                                "width": 210,
+                                                "height": 193
                                             },
                                             {
-                                                "width": 427,
-                                                "height": 414
+                                                "width": 420,
+                                                "height": 386
                                             },
                                             {
-                                                "width": 853,
-                                                "height": 827
+                                                "width": 840,
+                                                "height": 772
                                             },
                                             {
-                                                "width": 1705,
-                                                "height": 1653
+                                                "width": 1679,
+                                                "height": 1544
                                             },
                                             {
-                                                "width": 3409,
-                                                "height": 3305
+                                                "width": 3357,
+                                                "height": 3087
                                             }
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 3409,
-                                        "@id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o",
+                                        "width": 3357,
+                                        "@id": "https://lpdbmid.github.io/CDLsandbox2026/images/12-16779m",
                                         "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 3305,
+                                        "height": 3087,
                                         "@type": "ImageService2"
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o/canvas/"
+                            "target": "https://lpdbmid.github.io/CDLsandbox2026/images/12-16779m/canvas/"
                         }
                     ]
                 }
