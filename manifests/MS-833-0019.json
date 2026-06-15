@@ -1,0 +1,92 @@
+{
+ "viewingDirection": "left-to-right",
+ "metadata": [
+  {
+   "label": "Subject(s)",
+   "value": "Photograph"
+  },
+  {
+   "label": "Associated Name(s)",
+   "value": "Unknown"
+  },
+  {
+   "label": "Origin Place",
+   "value": "Nottingham"
+  },
+  {
+   "label": "Physical Location",
+   "value": "The University of Nottingham"
+  },
+  {
+   "label": "Funding",
+   "value": ""
+  },
+  {
+   "label": "Abstract",
+   "value": "<p style='text-align: justify;'>Black and white photograph showing women students posing for a group photo on the grass outside Florence Boot Hall, student hall of residence at Nottingham University College. Probably taken between 1933 and 1948.<\/p>"
+  },
+  {
+   "label": "Date of Creation",
+   "value": "1933"
+  },
+  {
+   "label": "Title",
+   "value": "Photograph of students outside Florence Boot Hall, c.1933-1948."
+  },
+  {
+   "label": "Author(s) of the Record",
+   "value": ""
+  },
+  {
+   "label": "Material",
+   "value": "Paper"
+  },
+  {
+   "label": "Classmark",
+   "value": "MS 833/19"
+  }
+ ],
+ "@type": "sc:Manifest",
+ "attribution": "Provided by My Institution. Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose.  Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose.   This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported License.",
+ "structures": [{
+  "canvases": ["http://development-viewer.cul-development.net/iiif/MS-833-0019/canvas/1"],
+  "@type": "sc:Range",
+  "@id": "http://development-viewer.cul-development.net/iiif/MS-833-0019/range/DOCUMENT",
+  "label": "Photograph of students outside Florence Boot Hall, c.1933-1948."
+ }],
+ "description": "<p style='text-align: justify;'>Black and white photograph showing women students posing for a group photo on the grass outside Florence Boot Hall, student hall of residence at Nottingham University College. Probably taken between 1933 and 1948.<\/p>",
+ "logo": "http://development-viewer.cul-development.net/themeui/theme/images/logo.png",
+ "@id": "http://development-viewer.cul-development.net/iiif/MS-833-0019",
+ "label": "Photograph of students outside Florence Boot Hall, c.1933-1948. (MS 833/19)",
+ "sequences": [{
+  "canvases": [{
+   "images": [{
+    "resource": {
+     "@type": "dctypes:Image",
+     "service": {
+      "profile": "http://iiif.io/api/image/2/level1.json",
+      "@id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o",
+      "@context": "http://iiif.io/api/image/2/context.json"
+     },
+     "format": "image/jpg",
+     "width": 3409,
+     "@id": "https://lpdbmid.github.io/CDLsandbox2026/images/10-10003o",
+     "height": 3305
+    },
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "on": "http://development-viewer.cul-development.net/iiif/MS-833-0019/canvas/1"
+   }],
+   "@type": "sc:Canvas",
+   "width": 3409,
+   "@id": "http://development-viewer.cul-development.net/iiif/MS-833-0019/canvas/1",
+   "label": "1",
+   "height": 3305
+  }],
+  "@type": "sc:Sequence",
+  "@id": "http://development-viewer.cul-development.net/iiif/MS-833-0019/sequence",
+  "label": "Current Page Order"
+ }],
+ "@context": "http://iiif.io/api/presentation/2/context.json",
+ "seeAlso": "https://development-services.cul-development.net/v1/metadata/tei/MS-833-0019/"
+}
