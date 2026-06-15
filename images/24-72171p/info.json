@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 170,
+    "height" : 240
+  }, {
+    "width" : 340,
+    "height" : 479
+  }, {
+    "width" : 680,
+    "height" : 957
+  }, {
+    "width" : 1359,
+    "height" : 1913
+  }, {
+    "width" : 2718,
+    "height" : 3826
+  }, {
+    "width" : 5435,
+    "height" : 7652
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5435,
+  "@id" : "https://lpdbmid.github.io/CDLsandbox2026/images/24-72171p",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7652
+}
