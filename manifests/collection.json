@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://lpdbmid.github.io/CDLsandbox2026/manifests/MS-UMP-2-4-1-2.json",
     "label" : "Photograph of Lady Florence Boot, c.1928. (UMP/2/4/1/2)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lpdbmid.github.io/CDLsandbox2026/manifests/MS-UMP2412.json",
+    "label" : "Photograph of Lady Florence Boot, c.1928. (UMP/2/4/1/2)"
   } ]
 }
