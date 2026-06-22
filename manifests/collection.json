@@ -1,0 +1,13 @@
+{
+  "id" : "https://lpdbmid.github.io/CDLsandbox2026/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in lpdbmid/CDLsandbox2026 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lpdbmid.github.io/CDLsandbox2026/manifests/MS-UMP-2-4-1-2.json",
+    "label" : "Photograph of Lady Florence Boot, c.1928. (UMP/2/4/1/2)"
+  } ]
+}
