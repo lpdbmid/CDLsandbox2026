@@ -1,0 +1,80 @@
+{
+  "viewingDirection" : "left-to-right",
+  "metadata" : [ {
+    "label" : "Subject(s)",
+    "value" : "Photograph; Portrait photography; Boot, Florence Annie (-1952), Baroness Trent; niversity of Nottingham photographs"
+  }, {
+    "label" : "Associated Name(s)",
+    "value" : "Unknown"
+  }, {
+    "label" : "Origin Place",
+    "value" : "Nottingham"
+  }, {
+    "label" : "Physical Location",
+    "value" : "The University of Nottingham"
+  }, {
+    "label" : "Funding",
+    "value" : ""
+  }, {
+    "label" : "Abstract",
+    "value" : "<p style='text-align: justify;'>Photograph of Lady Florence Boot, wife of Jesse Boot, 1st Baron Trent, benefactor of University College Nottingham. Florence Boot donated the money to build the first hall of residence for women students at the University, which was named after her. The photograph is in a souvenir album presented by Walter Millis to University College Nottingham, to celebrate the opening of the new buildings at University Park in July 1928. </p>"
+  }, {
+    "label" : "Date of Creation",
+    "value" : "1928"
+  }, {
+    "label" : "Title",
+    "value" : "Photograph of Lady Florence Boot, c.1928."
+  }, {
+    "label" : "Author(s) of the Record",
+    "value" : ""
+  }, {
+    "label" : "Material",
+    "value" : "Paper"
+  }, {
+    "label" : "Classmark",
+    "value" : "UMP/2/4/1/2"
+  } ],
+  "@type" : "sc:Manifest",
+  "attribution" : "Provided by My Institution. Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose.  Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose.   This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported License.",
+  "structures" : [ {
+    "canvases" : [ "http://development-viewer.cul-development.net/iiif/MS-UMP-2-4-1-2/canvas/1" ],
+    "@type" : "sc:Range",
+    "@id" : "http://development-viewer.cul-development.net/iiif/MS-UMP-2-4-1-2/range/DOCUMENT",
+    "label" : "Photograph of Lady Florence Boot, c.1928."
+  } ],
+  "description" : "<p style='text-align: justify;'>Photograph of Lady Florence Boot, wife of Jesse Boot, 1st Baron Trent, benefactor of University College Nottingham. Florence Boot donated the money to build the first hall of residence for women students at the University, which was named after her. The photograph is in a souvenir album presented by Walter Millis to University College Nottingham, to celebrate the opening of the new buildings at University Park in July 1928. </p>",
+  "logo" : "http://development-viewer.cul-development.net/themeui/theme/images/logo.png",
+  "@id" : "https://lpdbmid.github.io/CDLsandbox2026/manifests/MS-UMP2412.json",
+  "label" : "Photograph of Lady Florence Boot, c.1928. (UMP/2/4/1/2)",
+  "sequences" : [ {
+    "canvases" : [ {
+      "images" : [ {
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "@id" : "https://lpdbmid.github.io/CDLsandbox2026/images/10-8918o",
+            "@context" : "http://iiif.io/api/image/2/context.json"
+          },
+          "format" : "image/jpg",
+          "width" : 4275,
+          "@id" : "https://lpdbmid.github.io/CDLsandbox2026/images/10-8918o",
+          "height" : 5869
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "http://development-viewer.cul-development.net/iiif/MS-UMP-2-4-1-2/canvas/1"
+      } ],
+      "@type" : "sc:Canvas",
+      "width" : 4275,
+      "@id" : "http://development-viewer.cul-development.net/iiif/MS-UMP-2-4-1-2/canvas/1",
+      "label" : "1",
+      "height" : 5869
+    } ],
+    "@type" : "sc:Sequence",
+    "@id" : "http://development-viewer.cul-development.net/iiif/MS-UMP-2-4-1-2/sequence",
+    "label" : "Current Page Order"
+  } ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "seeAlso" : "https://development-services.cul-development.net/v1/metadata/tei/MS-UMP-2-4-1-2/"
+}
